@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".museum">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:paddingTop="40dp"
+            android:orientation="vertical">
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:cardCornerRadius="30sp">
+                <androidx.cardview.widget.CardView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    app:cardCornerRadius="30sp">
+                    <ImageView
+                        android:id="@+id/image_cover"
+                        android:layout_width="wrap_content"
+                        android:layout_height="300dp"
+                        android:layout_marginHorizontal="5dp"
+                        android:scaleType="centerCrop"
+                        android:background="@drawable/museumsulteng"/>
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="90dp"
+                        android:fontFamily="@font/fontku"
+                        android:background="@drawable/bg_textlisr"
+                        android:layout_marginTop="270sp"
+                        android:textSize="65sp"
+                        android:gravity="center"
+                        android:paddingHorizontal="15dp"
+                        android:layout_marginHorizontal="5dp"
+                        android:textStyle="bold"
+                        android:textColor="@color/white"
+                        android:text="Museum"/>
+                </androidx.cardview.widget.CardView>
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="368dp"
+                    android:layout_marginStart="265dp"
+                    android:background="@drawable/bg_rate1"
+                    android:elevation="9dp"
+                    android:gravity="center_vertical"
+                    android:orientation="horizontal"
+                    android:paddingHorizontal="8dp"
+                    android:paddingVertical="5dp">
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:src="@drawable/ic_baseline_star_24" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text=" 4.8"
+                        android:textColor="@color/black"
+                        android:textSize="14dp"
+                        android:textStyle="bold" />
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"/>
+                <ImageView
+                    android:layout_width="30sp"
+                    android:layout_height="30sp"
+                    android:layout_marginStart="345dp"
+                    android:layout_marginTop="368dp"
+                    android:layout_marginEnd="15dp"
+                    android:layout_marginBottom="10dp"
+                    android:src="@drawable/ic_baseline_share_24"/>
+
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:layout_marginStart="15dp"
+                    android:layout_marginTop="370dp"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Museum Sulawesi\nTengah, Palu"
+                        android:textStyle="bold"
+                        android:layout_marginBottom="10dp"
+                        android:textSize="15sp"
+                        android:textColor="@color/black"
+                        android:drawableStart="@drawable/ic_baseline_location_on_24"/>
+                </LinearLayout>
+
+
+            </androidx.cardview.widget.CardView>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="30sp"
+                android:layout_marginHorizontal="20dp"
+                android:layout_marginTop="25dp">
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="5dp"
+                        android:text="Experience by Rafi Naufal"
+                        android:textColor="@color/black"
+                        android:textSize="20dp"
+                        android:textStyle="bold" />
+
+                    <ImageView
+                        android:layout_width="42dp"
+                        android:layout_marginStart="90dp"
+                        android:layout_height="32dp"
+                        android:src="@drawable/museumsulteng" />
+                </LinearLayout>
+            </LinearLayout>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingTop="20dp"
+                android:paddingHorizontal="15dp"
+                android:layout_marginHorizontal="20dp"
+                android:textColor="@color/black"
+                android:textSize="15dp"
+                android:justificationMode="inter_word"
+                android:text="    museum sulawesi tengah terletak di jalan kemiri no. 23, kelurahan kamonji, kecamatan palu barat, kota palu, provinsi sulawesi tengah. Museum sulawesi tengah ini memiliki koleksi berbagai benda peninggalan sejarah dan kebudayaan masyarakat sulawesi tengah. Museum sulawesi tengah mulai dibangun pada 1977, dan diresmikan pada 1987. Museum sulawesi tengah memiliki koleksi sekitar 7.455 buah. Dari jumlah tersebut, 5 (lima) di antaranya termasuk koleksi unggulan, yaitu kain tenun donggala, pakaian kulit kayu, patung palindo yang menggambarkan nenek moyang masyarakat lembah bada, taingaja atau patung kepala kerbau yang berbuat dari perunggu, serta fosil rahang gajah purba (stegodon) yang diperkirakan berumur 1,9 juta tahun."/>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

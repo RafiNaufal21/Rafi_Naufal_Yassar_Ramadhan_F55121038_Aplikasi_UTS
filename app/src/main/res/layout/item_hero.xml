@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+android:padding="16dp">
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="150dp"
+    android:layout_marginLeft="80dp">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:layout_marginLeft="500dp"
+        android:id="@+id/txt_name"
+        android:textColor="@color/white"
+        android:text="Judul"
+        android:layout_marginStart="26dp"
+        android:textSize="18sp"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:id="@+id/txt_description"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txt_name"
+        android:layout_marginStart="26sp"
+        android:layout_marginTop="10dp"
+        android:ellipsize="end"
+        android:maxLines="3"
+        android:text="@string/Lorem"
+        android:textColor="@color/white" />
+
+</RelativeLayout>
+
+
+
+<androidx.cardview.widget.CardView
+    android:layout_width="100dp"
+    android:layout_height="150dp"
+    app:cardCornerRadius="20dp">
+
+    <ImageView
+        android:id="@+id/img_photo"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="fitXY"
+        />
+
+</androidx.cardview.widget.CardView>
+
+
+
+</RelativeLayout>

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".danautambing">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:paddingTop="40dp"
+            android:orientation="vertical">
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:cardCornerRadius="30sp">
+                <androidx.cardview.widget.CardView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    app:cardCornerRadius="30sp">
+                    <ImageView
+                        android:id="@+id/image_cover"
+                        android:layout_width="wrap_content"
+                        android:layout_height="300dp"
+                        android:layout_marginHorizontal="5dp"
+                        android:scaleType="centerCrop"
+                        android:background="@drawable/danautambing"/>
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="90dp"
+                        android:fontFamily="@font/fontku"
+                        android:background="@drawable/bg_textlisr"
+                        android:layout_marginTop="270sp"
+                        android:textSize="45sp"
+                        android:gravity="center"
+                        android:paddingHorizontal="15dp"
+                        android:layout_marginHorizontal="5dp"
+                        android:textStyle="bold"
+                        android:textColor="@color/white"
+                        android:text="Danau Tambing"/>
+                </androidx.cardview.widget.CardView>
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="368dp"
+                    android:layout_marginStart="265dp"
+                    android:background="@drawable/bg_rate1"
+                    android:elevation="9dp"
+                    android:gravity="center_vertical"
+                    android:orientation="horizontal"
+                    android:paddingHorizontal="8dp"
+                    android:paddingVertical="5dp">
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:src="@drawable/ic_baseline_star_24" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text=" 4.8"
+                        android:textColor="@color/black"
+                        android:textSize="14dp"
+                        android:textStyle="bold" />
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"/>
+                <ImageView
+                    android:layout_width="30sp"
+                    android:layout_height="30sp"
+                    android:layout_marginStart="345dp"
+                    android:layout_marginTop="368dp"
+                    android:layout_marginEnd="15dp"
+                    android:layout_marginBottom="10dp"
+                    android:src="@drawable/ic_baseline_share_24"/>
+
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:layout_marginStart="15dp"
+                    android:layout_marginTop="378dp"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Danau Tambing,\n Kab. Poso"
+                        android:textStyle="bold"
+                        android:textSize="15sp"
+                        android:layout_marginBottom="10dp"
+                        android:textColor="@color/black"
+                        android:drawableStart="@drawable/ic_baseline_location_on_24"/>
+                </LinearLayout>
+
+
+            </androidx.cardview.widget.CardView>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="30sp"
+                android:layout_marginHorizontal="20dp"
+                android:layout_marginTop="25dp">
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="5dp"
+                        android:text="Experience by Rafi Naufal"
+                        android:textColor="@color/black"
+                        android:textSize="20dp"
+                        android:textStyle="bold" />
+
+                    <ImageView
+                        android:layout_width="42dp"
+                        android:layout_marginStart="100dp"
+                        android:layout_height="32dp"
+                        android:src="@drawable/ic_baseline_people_alt_24" />
+                </LinearLayout>
+            </LinearLayout>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingTop="20dp"
+                android:paddingHorizontal="15dp"
+                android:layout_marginHorizontal="20dp"
+                android:textColor="@color/black"
+                android:textSize="15dp"
+                android:justificationMode="inter_word"
+                android:text="     Danau tambing (bahasa pamona: rano kalimpaa, rano tambing), adalah sebuah danau yang terletak di desa sedoa, lore utara, kabupaten poso. Danau ini terletak pada ketinggian sekitar 1.700 meter dari permukaan laut. Danau tambing merupakan salah satu bagian dari wilayah taman nasional lore lindu. Danau ini dikelola oleh balai besar taman nasional lore lindu dan juga pemerintah kabupaten poso sebagai bagian dari wilayah kabupaten poso.Menurut balai besar taman nasional lore lindu, tiga ciri khas yang ada di lokasi danau tambing adalah alam, danau, dan burung. danau tambing memiliki keanekaragaman makhluk hidup, seperti spesies burung. Dengan lebih dari 260 jenis burung, membuat tempat ini dijuluki surgaburung. 30 persen di antara spesies burung tersebut adalah jenis endemik, artinya 30 persen jenis burung yang ada di tambing, hanya ada dan berkembang biak di sekitar danau tambing. dua diantaranya adalah burung kipasan sulawesi (rhipidura teysmanni) dan burung kancilan ungu (maroon-backed whistler). Ukuran kedua burung ini sangat kecil, tidak lebih besar dari buah salak pondoh. Di danau tambing, spesies hewan seperti nuri sulawesi (tanygnathus sumatranus), kakatua (cacatua sulphurea), rangkong (buceros rhinoceros dan aceros cassidix), dan pecuk ular (anhinga rufa) bisa ditemukan."/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

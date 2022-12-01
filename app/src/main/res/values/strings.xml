@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">Wisata Kebudayaan Sulawesi Tengah</string>
+    <string name="name_heroes">OBJEK WISATA</string>
+    <string name="search">Search</string>
+    <string name="Lorem">Lorem ipsum dolor sit</string>
+
+    <string-array name="data_name">
+        <item>Museum Sulawesi Tengah</item>
+        <item>Taman Nasional Lore Lindu</item>
+        <item>Souraja</item>
+        <item>Cagar alam morowali</item>
+        <item>Tugu Perdamaian/Monumen Nosarara Nosabatutu</item>
+        <item>Danau Poso</item>
+        <item>Danau Tambing</item>
+        <item>Pulau Togean</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>museum sulawesi tengah terletak di jalan kemiri no. 23, kelurahan kamonji, kecamatan palu barat, kota palu, provinsi sulawesi tengah.
+            Museum sulawesi tengah ini memiliki koleksi berbagai benda peninggalan sejarah dan kebudayaan masyarakat sulawesi tengah.
+            Museum sulawesi tengah mulai dibangun pada 1977, dan diresmikan pada 1987. Museum sulawesi tengah memiliki koleksi sekitar 7.455 buah.
+            Dari jumlah tersebut, 5 (lima) di antaranya termasuk koleksi unggulan, yaitu kain tenun donggala, pakaian kulit kayu, patung palindo yang
+            menggambarkan nenek moyang masyarakat lembah bada, taingaja atau patung kepala kerbau yang berbuat dari perunggu, serta fosil rahang gajah
+            purba (stegodon) yang diperkirakan berumur 1,9 juta tahun.</item>
+        <item> Taman nasional lore lindu (tnll) merupakan salah satu taman nasional di indonesia yang terletak di provinsi sulawesi tengah dan salah satu
+            lokasi perlindungan hayati sulawesi. Taman nasional lore lindu terletak sekitar 60 kilometer selatan kota palu dan terletak antara 119°90’ – 120°16’bt
+            dan 1°8’ – 1°3’ls. Taman nasional lore lindu yang terletak di selatan kabupaten donggala dan bagian barat kabupaten poso menjadi daerah tangkapan air
+            bagi 3 sungai besar di sulawesi tengah, yakni sungai lariang, sungai gumbasa dan sungai palu. Taman nasional ini terbagi atas tiga kawasan,
+            yakni suaka margasatwa lore kalamanta, hutan wisata danau lindu, dan suaka margasatwa sopu gumbasa. Taman nasional lore lindu memiliki fauna dan flora
+            endemik sulawesi serta panorama alam yang menarik karena terletak di garis wallace yang merupakan wilayah peralihan antara zona asia dan australia.
+            taman nasional ini juga merupakan habitat mamalia asli terbesar di sulawesi. </item>
+        <item>Souraja atau disebut juga Banua Oge adalah rumah adat atau rumah tradisional Indonesia yang berasal dari Kelurahan Lere, Kecamatan Palu Barat, Kota Palu, Provinsi Sulawesi Tengah.</item>
+        <item>Cagar alam morowali adalah cagar alam yang tereltak di kabupaten morowali utara, sulawesi tengah. Dalam pembagian administratif,
+            cagar alam morowali masuk dalam wilayah 3 kecamatan, yaitu kecamatan soyo jaya, kecamatan bungku utara dan kecamatan mamosalato.
+            Lahan yang ditempatinya seluas 209.400 hektare. Penetapannya sebagai cagar alam berdasarkan urat keputusan menteri kehutanan no. 237/kpts-ii/1999
+            tanggal 27 april 1999. </item>
+        <item>Tugu perdamaian "nosarara nosabatutu" adalah tugu yang terletak di kawasan perbukitan kelurahan tondo, kecamatan mantikulore, palu.
+            Dibangun pada rentang 1998-2000 sebagai simbol persatuan dan perdamaian masyarakat sulawesi tengah pasca konflik komunal yang terjadi di poso,
+            tugu ini resmi menjadi kawasan wisata pada tanggal 11  maret2014.Monumen nosarara nosabatutu merupakan bangunan berlantai tiga seluas 800 meter persegi.
+            tugu perdamaian berdiri kokoh di atas monumen ini. "nosarara nosabatutu" sendiri berasal dari bahasa kaili yang berarti "kita bersaudara, kita bersatu".
+            Semboyan ini merupakan pemersatu bagi keberagaman masyarakat sulawesi tengah yang terdiri dari berbagai suku dan agama.</item>
+        <item>Danau poso (bahasa inggris: poso lake), merupakan sebuah danau yang terletak di kabupaten poso, provinsi sulawesi tengah, indonesia; dan
+            merupakan danau terdalam ketiga di indonesia. Danau ini memiliki panjang 32 km dan lebar 16 km. Danau ini merupakan habitat dari sejumlah ikan,
+            termasuk belut anguilla marmorata yang bermigrasi antara danau dan laut, dan 11 spesies ikan endemik yang hanya terdapat di danau ini,
+            di antaranya adrianichthys, mugilogobius amadi, m. Sarasinorum, nomorhamphus celebensis, oryzias nebulosus, oryzias nigrimas, dan oryzias orthognathus,
+            yang semuanya berada dalam keadaan terancam (dalam beberapa kasus kemungkinan telah punah).Di sini juga banyak terdapat siput air tawar endemik
+            tylomelania, dan juga beberapa udang endemik caridina dan kepiting parathelphusidae (umumnya migmathelphusa, parathelphusa dan sundathelphusa.</item>
+        <item>Danau tambing (bahasa pamona: rano kalimpaa, rano tambing), adalah sebuah danau yang terletak di desa sedoa, lore utara, kabupaten poso.
+            Danau ini terletak pada ketinggian sekitar 1.700 meter dari permukaan laut. Danau tambing merupakan salah satu bagian dari wilayah
+            taman nasional lore lindu. Danau ini dikelola oleh balai besar taman nasional lore lindu dan juga pemerintah kabupaten poso sebagai bagian dari
+            wilayah kabupaten poso.</item>
+        <item>Pulau sombori adalah kawasan konservasi laut seluas 41.342 hektar. Terdapat beberapa pulau kecil di kawasan ini, sebagian di antaranya menjadi
+            tempat tinggal bagi nelayan, selebihnya adalah pulau tak berpenghuni. Pulau sombori terletak di morowali, sulawesi tengah.
+            Ketika memasuki kawasan sombori, anda akan disambut oleh tebing karang di kanan dan kiri, dengan lautan yang berombak.
+            Barulah ketika masuk semakin dalam, hamparan lautan tenang nan memukau, menanti untuk anda nikmati.
+            Kawasan sombori terdiri dari gugusan pulau karang yang menakjubkan, layaknya raja ampat. </item>
+        <item>Kepulauan togean merupakan kepulauan yang terletak di teluk tomini, sulawesi tengah indonesia. Secara administrasi, wilayah ini berada di
+            kabupaten tojo una-una, kepulauan togean tersebar sepanjang kurang lebih 90 kilometer.Kepulauan togean merupakan hamparan pulau-pulau yang terdiri
+            6 pulau besar dan sekitar 60 pulau yang lebih kecil di sekitar teluk tomini, sulawesi.Suku yang mendiami kepulauan togea serta terdistribusi dihampir
+            seluruh pulau dikenal beberapa suku dominan yaitu suku togean itu sendiri, suku bobongko, dan suku saluan. </item>
+    </string-array>
+    <string-array name="data_photo">
+        <item>@drawable/museumsulteng</item>
+        <item>@drawable/tamannasional</item>
+        <item>@drawable/sourajaa</item>
+        <item>@drawable/cagaralammorowali</item>
+        <item>@drawable/tuguerdamaian</item>
+        <item>@drawable/danauposoo</item>
+        <item>@drawable/danautambing</item>
+        <item>@drawable/pulautogean</item>
+    </string-array>
+    <string name="title_activity_fragment">fragment</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+</resources>

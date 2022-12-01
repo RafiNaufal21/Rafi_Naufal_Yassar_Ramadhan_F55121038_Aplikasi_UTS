@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/EvaluasiMobile/app/src/main/res/layout/activity_cagaralammorowalli.xml" value="0.36666666666666664" />
+        <entry key="..\:/EvaluasiMobile/app/src/main/res/layout/activity_cagarmegalitik.xml" value="0.36666666666666664" />
+        <entry key="..\:/EvaluasiMobile/app/src/main/res/layout/activity_danauposo.xml" value="0.18854166666666666" />
+        <entry key="..\:/EvaluasiMobile/app/src/main/res/layout/activity_danautambing.xml" value="0.17831813576494426" />
+        <entry key="..\:/EvaluasiMobile/app/src/main/res/layout/activity_main.xml" value="0.35260416666666666" />
+        <entry key="..\:/EvaluasiMobile/app/src/main/res/layout/activity_museum.xml" value="0.18802083333333333" />
+        <entry key="..\:/EvaluasiMobile/app/src/main/res/layout/activity_pulausombori.xml" value="0.18854166666666666" />
+        <entry key="..\:/EvaluasiMobile/app/src/main/res/layout/activity_pulautogean.xml" value="0.17395833333333333" />
+        <entry key="..\:/EvaluasiMobile/app/src/main/res/layout/activity_rafii.xml" value="0.36666666666666664" />
+        <entry key="..\:/EvaluasiMobile/app/src/main/res/layout/activity_souraja.xml" value="0.17395833333333333" />
+        <entry key="..\:/EvaluasiMobile/app/src/main/res/layout/activity_tamannasional.xml" value="0.36666666666666664" />
+        <entry key="..\:/EvaluasiMobile/app/src/main/res/layout/activity_tuguperdamaian.xml" value="0.36666666666666664" />
+        <entry key="..\:/EvaluasiMobile/app/src/main/res/layout/item_hero.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

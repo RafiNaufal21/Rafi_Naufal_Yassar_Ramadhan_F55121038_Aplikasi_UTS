@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".cagaralammorowalli">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:paddingTop="40dp"
+            android:orientation="vertical">
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:cardCornerRadius="30sp">
+                <androidx.cardview.widget.CardView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    app:cardCornerRadius="30sp">
+
+                    <ImageView
+                        android:id="@+id/image_cover"
+                        android:layout_width="wrap_content"
+                        android:layout_height="336dp"
+                        android:layout_marginHorizontal="5dp"
+                        android:background="@drawable/cagaralammorowali"
+                        android:scaleType="centerCrop" />
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="90dp"
+                        android:fontFamily="@font/fontku"
+                        android:background="@drawable/bg_textlisr"
+                        android:layout_marginTop="270sp"
+                        android:textSize="35sp"
+                        android:gravity="center"
+                        android:paddingHorizontal="15dp"
+                        android:layout_marginHorizontal="5dp"
+                        android:textStyle="bold"
+                        android:textColor="@color/white"
+                        android:text="Cagar Alam Morowali"/>
+                </androidx.cardview.widget.CardView>
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="368dp"
+                    android:layout_marginStart="265dp"
+                    android:background="@drawable/bg_rate1"
+                    android:elevation="9dp"
+                    android:gravity="center_vertical"
+                    android:orientation="horizontal"
+                    android:paddingHorizontal="8dp"
+                    android:paddingVertical="5dp">
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:src="@drawable/ic_baseline_star_24" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text=" 4.8"
+                        android:textColor="@color/black"
+                        android:textSize="14dp"
+                        android:textStyle="bold" />
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"/>
+                <ImageView
+                    android:layout_width="30sp"
+                    android:layout_height="30sp"
+                    android:layout_marginStart="345dp"
+                    android:layout_marginTop="368dp"
+                    android:layout_marginEnd="15dp"
+                    android:layout_marginBottom="10dp"
+                    android:src="@drawable/ic_baseline_share_24"/>
+
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:layout_marginStart="15dp"
+                    android:layout_marginTop="370dp"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Cagar Alam Morowali,\nKabupaten Morowali"
+                        android:textStyle="bold"
+                        android:textSize="15sp"
+                        android:textColor="@color/black"
+                        android:layout_marginBottom="10dp"
+                        android:drawableStart="@drawable/ic_baseline_location_on_24"/>
+                </LinearLayout>
+
+
+            </androidx.cardview.widget.CardView>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="30sp"
+                android:layout_marginHorizontal="20dp"
+                android:layout_marginTop="25dp">
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="5dp"
+                        android:text="Experience by Rafi Naufal"
+                        android:textColor="@color/black"
+                        android:textSize="20dp"
+                        android:textStyle="bold" />
+
+                    <ImageView
+                        android:layout_width="42dp"
+                        android:layout_marginStart="100dp"
+                        android:layout_height="32dp"
+                        android:src="@drawable/ic_baseline_people_alt_24" />
+                </LinearLayout>
+            </LinearLayout>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingTop="20dp"
+                android:paddingHorizontal="15dp"
+                android:layout_marginHorizontal="20dp"
+                android:textColor="@color/black"
+                android:textSize="15dp"
+                android:justificationMode="inter_word"
+                android:text="     Cagar alam morowali adalah cagar alam yang tereltak di kabupaten morowali utara, sulawesi tengah. Dalam pembagian administratif, cagar alam morowali masuk dalam wilayah 3 kecamatan, yaitu kecamatan soyo jaya, kecamatan bungku utara dan kecamatan mamosalato. Lahan yang ditempatinya seluas 209.400 hektare. Penetapannya sebagai cagar alam berdasarkan urat keputusan menteri kehutanan no. 237/kpts-ii/1999 tanggal 27 april 1999. keliling keseluruhan cagar alam ini sepanjang 265,84 kimometer. Sepanjang 36,36 km merupakan batas alam, sedangkan sepanjang 229,48 km merupakan batas buatan. Jumlah pal batas yang dipasang sebanyak 3.197 buah. Dalam sistem koordinat geografi, letaknya di koordinat 1° 20’ - 1° 35’ lintang selatan dan 121° 15’ 30” - 121° 38’ 0” bujur timur. Beberapa jenis flora yang tumbuh di dalamnya ialah bakau, bruguiera, teruntum, tengar, coropa, paku gajah, pandan, beringin, dan cemara laut. Di dalam alam ini terdapat hutan rawa dan hutan bambu yang ditumbuhi oleh palqium, sawo mentega, saw kecik, tanjung, calophyllum, panirani corymbosa, haplolobus celebicus, pinang, dan rotan. Beberapa jenis fauna yang hidup di dalamnya ialah babi rusa, anoa, yaki, musang sulawesi, kuskus, rusa, babi hutan, dan tikus. Selain itu terdapat pula jenis burung dan unggas seperti elang laut, itik, pecuk ular, dan cangak merah."/>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>
